@@ -1,5 +1,4 @@
 import sys
-if len(sys.argv) !=3:
 script_name=sys.argv[0]
 emp_name=sys.argv[1]
 salary= sys.argv[2]
